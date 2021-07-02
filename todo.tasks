@@ -1,0 +1,6 @@
+- HTML5 boilerplate;
+- HTTPS vs HTTP
+- Build process (compile assets);
+- Run locally with Apache;
+- IaC for prod;
+- Emulating prod locally;
